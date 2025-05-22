@@ -1,0 +1,10 @@
+.blog .card{
+    transition: all 0.3s ease-in-out;
+}
+
+.blog .card:hover{
+    transform: scale(1.03);
+}
+.pp{
+    margin: 30px;
+}
